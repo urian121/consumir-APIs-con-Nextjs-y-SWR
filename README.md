@@ -2,6 +2,9 @@
 
 Guía práctica para aprender a consumir APIs en **Next.js** usando
 **SWR** y **Axios**, evitando el uso manual de `useEffect` y `useState`.
+Mejorando la experiencia del usuario con datos siempre frescos y sin la necesidad de usar `useEffect` y `useState` en cada petición.
+
+![Logo](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/consumir-APIs-con-Nextjs-y-SWR.png)
 
 ## 📦 1. Instalación
 
@@ -85,4 +88,17 @@ export default function HomePage() {
 -   ✅ Optimización de rendimiento automática.
 -   ✅ Compatible con REST y GraphQL.
 
+### Referencias
+- [SWR](https://swr.vercel.app/es-ES)
 
+
+## 🙌 Cómo puedes apoyar 📢:
+✨ **Comparte este proyecto** con otros desarrolladores para que puedan beneficiarse 📢.
+☕ **Invítame un café o una cerveza 🍺**:
+   - [Paypal](https://www.paypal.me/iamdeveloper86) (`iamdeveloper86@gmail.com`).
+
+### ⚡ ¡No olvides SUSCRIBIRTE a la [Comunidad WebDeveloper](https://www.youtube.com/WebDeveloperUrianViera?sub_confirmation=1)!
+
+#### ⭐ **Déjanos una estrella en GitHub**:
+   - Dicen que trae buena suerte 🍀.
+**Gracias por tu apoyo 🤓.**
