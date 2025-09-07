@@ -1,0 +1,70 @@
+
+.user-item {
+position: relative;
+border: none;
+padding: 15px;
+border-bottom: 1px solid #ccc;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+.user-info {
+display: flex;
+align-items: center;
+gap: 15px;
+}
+
+.avatar-wrapper {
+position: relative;
+width: 50px;
+height: 50px;
+}
+
+.user-avatar {
+width: 50px;
+height: 50px;
+border-radius: 50%;
+object-fit: cover;
+display: block;
+}
+
+.status-dot {
+width: 15px;
+height: 15px;
+border-radius: 50%;
+display: inline-block;
+position: absolute;
+bottom: 38px;
+right: -2px;
+border: 2px solid #fff;
+}
+
+.status-online {
+background-color: #00ff44;
+}
+
+.status-offline {
+background-color: #888;
+}
+
+.user-details {
+display: flex;
+flex-direction: column;
+}
+
+.user-item:hover {
+background-color: #ededed;
+cursor: pointer;
+transform: scale(1.01);
+transition: all 0.2s ease-in-out;
+}
+
+.message-badge.user-year {
+position: absolute;
+top: 10px;
+right: 10px;
+color: #666;
+font-size: 0.8rem;
+padding: 5px 10px;
+}
