@@ -92,13 +92,18 @@ export default function HomePage() {
 - [SWR](https://swr.vercel.app/es-ES)
 
 
-## 🙌 Cómo puedes apoyar 📢:
-✨ **Comparte este proyecto** con otros desarrolladores para que puedan beneficiarse 📢.
-☕ **Invítame un café o una cerveza 🍺**:
-   - [Paypal](https://www.paypal.me/iamdeveloper86) (`iamdeveloper86@gmail.com`).
+## 🤝 Apoyo
 
-### ⚡ ¡No olvides SUSCRIBIRTE a la [Comunidad WebDeveloper](https://www.youtube.com/WebDeveloperUrianViera?sub_confirmation=1)!
+### ⭐ Dale una estrella
+Si el proyecto te sirvió, dale una ⭐ en GitHub
 
-#### ⭐ **Déjanos una estrella en GitHub**:
-   - Dicen que trae buena suerte 🍀.
-**Gracias por tu apoyo 🤓.**
+### 📢 Comparte
+Recomiéndalo a otros desarrolladores
+
+### ☕ Invítame un café
+**PayPal**: [iamdeveloper86@gmail.com](https://www.paypal.me/iamdeveloper86)
+
+### 📺 Suscríbete
+[Comunidad WebDeveloper](https://www.youtube.com/WebDeveloperUrianViera?sub_confirmation=1)
+
+**¡Gracias por tu apoyo! 🚀**
